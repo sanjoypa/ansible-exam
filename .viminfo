@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1661088642,,"wq!"
+|2,0,1661105827,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,31 @@
 # Registers:
 
 # File marks:
-'0  3  0  ~/git/test.txt
-|4,48,3,0,1661088642,"~/git/test.txt"
+'0  1  8  ~/hotel.txt
+|4,48,1,8,1661105827,"~/hotel.txt"
+'1  3  0  ~/git/test.txt
+|4,49,3,0,1661088642,"~/git/test.txt"
 
 # Jumplist (newest first):
+-'  1  8  ~/hotel.txt
+|4,39,1,8,1661105827,"~/hotel.txt"
+-'  3  0  ~/git/test.txt
+|4,39,3,0,1661088642,"~/git/test.txt"
 -'  3  0  ~/git/test.txt
 |4,39,3,0,1661088642,"~/git/test.txt"
 -'  1  0  ~/git/test.txt
 |4,39,1,0,1661088622,"~/git/test.txt"
+-'  1  0  ~/git/test.txt
+|4,39,1,0,1661088622,"~/git/test.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/hotel.txt
+	*	1661105826	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
 
 > ~/git/test.txt
 	*	1661088641	0
